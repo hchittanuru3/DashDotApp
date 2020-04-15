@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DashDotApp/static/css/main.099a6a36.chunk.css",
+    "main.js": "/DashDotApp/static/js/main.01b98529.chunk.js",
+    "main.js.map": "/DashDotApp/static/js/main.01b98529.chunk.js.map",
+    "runtime-main.js": "/DashDotApp/static/js/runtime-main.a18d373b.js",
+    "runtime-main.js.map": "/DashDotApp/static/js/runtime-main.a18d373b.js.map",
+    "static/js/2.5dea3333.chunk.js": "/DashDotApp/static/js/2.5dea3333.chunk.js",
+    "static/js/2.5dea3333.chunk.js.map": "/DashDotApp/static/js/2.5dea3333.chunk.js.map",
+    "index.html": "/DashDotApp/index.html",
+    "precache-manifest.dbbe0e788962bac342d89e2de6ce9b43.js": "/DashDotApp/precache-manifest.dbbe0e788962bac342d89e2de6ce9b43.js",
+    "service-worker.js": "/DashDotApp/service-worker.js",
+    "static/css/main.099a6a36.chunk.css.map": "/DashDotApp/static/css/main.099a6a36.chunk.css.map",
+    "static/js/2.5dea3333.chunk.js.LICENSE.txt": "/DashDotApp/static/js/2.5dea3333.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/DashDotApp/static/media/logo.7940e6ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18d373b.js",
+    "static/js/2.5dea3333.chunk.js",
+    "static/css/main.099a6a36.chunk.css",
+    "static/js/main.01b98529.chunk.js"
+  ]
+}
