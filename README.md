@@ -18,6 +18,7 @@ $ npm run ios
 
 # Android (connected device)
 $ npm run android
+```
 
 ## Folder structure
 
